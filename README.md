@@ -1,7 +1,7 @@
 # PvZ-Museum
 A collection of Plants vs. Zombies official games.
 
-##Language
+## Languages
 -[English](#English)
 -[简体中文](#Chinese)
 
