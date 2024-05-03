@@ -2,8 +2,8 @@
 A collection of Plants vs. Zombies official games.
 
 ## Languages
--[English](#English)
--[简体中文](#Chinese)
+- [English](#English)
+- [简体中文](#简体中文)
 
 ---
 
