@@ -24,3 +24,5 @@ QQ Group:
 
 下载植物大战僵尸（简体中文）：
 123pan.com/s/8xfqVv-Rh3fh.html
+
+QQ群：138414200
