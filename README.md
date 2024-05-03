@@ -6,3 +6,6 @@ Download PvZ(English):
 
 Download PvZ(Simplified Chinese):
 123pan.com/s/8xfqVv-Rh3fh.html
+
+QQ Group:
+138414200
