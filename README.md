@@ -13,7 +13,7 @@ Official PvZ resources for free, collected by CubeLoco. For study and research p
 __Download PvZ(OneDrive, English):__ <br/>
 https://1drv.ms/f/s!AoQQsrTSN96vbmI6BQ4JRkxhafY
 
-__Download PvZ(123pan, Simplified Chinese):__ <br/>
+__Download PvZ(123Cloud, Simplified Chinese):__ <br/>
 https://123pan.com/s/8xfqVv-Rh3fh.html
 
 QQ Group: 138414200<br/>
