@@ -16,7 +16,7 @@ __Download PvZ(OneDrive, English):__
 __Download PvZ(123pan, Simplified Chinese):__
 123pan.com/s/8xfqVv-Rh3fh.html
 
-QQ Group: [138414200]<br/>
+QQ Group: 138414200<br/>
 You can give a hand for the improvement of the resources.
 
 ---
@@ -29,5 +29,5 @@ __下载植物大战僵尸（OneDrive，英语）：__
 __下载植物大战僵尸（123云盘，简体中文）：__
 123pan.com/s/8xfqVv-Rh3fh.html
 
-QQ群：[138414200]<br/>
+QQ群：138414200<br/>
 你可以为资源的完善贡献一臂之力！
