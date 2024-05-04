@@ -17,7 +17,7 @@ __Download PvZ(123pan, Simplified Chinese):__
 https://123pan.com/s/8xfqVv-Rh3fh.html
 
 QQ Group: 138414200<br/>
-You can give a hand for the improvement of the resources.
+You can give a hand for the improvement of the resources!
 
 ---
 ### 简体中文
