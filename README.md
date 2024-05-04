@@ -8,7 +8,7 @@ A collection of Plants vs. Zombies official games.
 ---
 
 ## English
-Official PvZ resource for free, collected by CubeLoco. For study and research purposes only, I will be not responsible for any damage caused by the improper use of this resource.
+Official PvZ resources for free, collected by CubeLoco. For study and research purposes only, I will be not responsible for any damage caused by the improper use of this resource.
 
 ### Download PvZ(OneDrive, English):
 1drv.ms/f/s!AoQQsrTSN96vbmI6BQ4JRkxhafY
@@ -19,6 +19,7 @@ Official PvZ resource for free, collected by CubeLoco. For study and research pu
 QQ Group:
 138414200
 
+You can give a hand for the improvement of the resources.
 ---
 ## 简体中文
 免费的植物大战僵尸官方资源，由方矩忆灵收集。仅供学习和研究，请勿用于其他用途！使用此资源不当而造成的各种损失，本人一概不负责。
@@ -30,3 +31,5 @@ QQ Group:
 123pan.com/s/8xfqVv-Rh3fh.html
 
 QQ群：138414200
+
+你可以为资源的完善贡献一臂之力！
