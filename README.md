@@ -20,6 +20,7 @@ QQ Group:
 138414200
 
 You can give a hand for the improvement of the resources.
+
 ---
 ## 简体中文
 免费的植物大战僵尸官方资源，由方矩忆灵收集。仅供学习和研究，请勿用于其他用途！使用此资源不当而造成的各种损失，本人一概不负责。
