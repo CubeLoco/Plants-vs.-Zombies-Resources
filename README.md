@@ -1,4 +1,4 @@
-# PvZ-Museum
+# Plants vs. Zombies Resources
 A collection of Plants vs. Zombies official games.
 
 ## Languages
