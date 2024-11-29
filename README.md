@@ -9,7 +9,7 @@ https://1drv.ms/f/c/afde37d2b4b21084/EoQQsrTSN94ggK9uAAAAAAABzAQcT5ivAH1TJHvbh3-
 __Download PvZ(123Cloud):__ <br/>
 https://123pan.com/s/8xfqVv-Rh3fh.html
 
-__Download PvZ(123Cloud):__ <br/>
+__Download PvZ(CWCD):__ <br/>
 https://cloud.189.cn/t/M3Eb2ieeqqMr
 （Code: 2tdl）
 
