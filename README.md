@@ -1,4 +1,4 @@
-# Plants vs. Zombies Resources
+# Plants vs. Zombies resources
 A collection of Plants vs. Zombies official games.
 
 Official Plants vs. Zombies resources for free, collected by CubeLoco. For study and research purposes only, I will be not responsible for any damage caused by the improper use of this resource.
